@@ -1,5 +1,6 @@
 {
   "files": [
-    "rus.traineddata"
+    "rus.traineddata",
+    "rus_best.traineddata"
   ]
 }
